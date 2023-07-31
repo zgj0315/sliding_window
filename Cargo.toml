@@ -1,0 +1,10 @@
+[package]
+edition = "2021"
+name = "sliding_window"
+version = "0.1.0"
+
+[dependencies]
+chrono = "0.4"
+dev_util = "0.1"
+log = "0.4"
+lru = "0.11"
